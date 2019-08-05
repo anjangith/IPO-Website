@@ -1,0 +1,118 @@
+#customers {
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color:#1f2e2e;
+
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 3px;
+
+}
+
+#customers tr:nth-child(even){background-color:  #cce6ff;}
+
+#customers tr:hover {background-color: #4dc4db;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #cce6f;
+  color: black;
+}
+
+#customers td{
+  text-align: center;
+}
+
+
+.table-responsive{
+	float:left;
+}
+
+.table-responsive p{
+
+	text-align:center;
+}
+
+
+#custom {
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color:#1f2e2e;
+  text-align: center;
+}
+
+#custom td, #custom th {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: center;
+}
+
+#custom tr:nth-child(even){background-color:  #cce6ff;}
+
+#custom tr:hover {background-color:#4dc4db;}
+
+#custom th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #cce6ff;
+  color: black;
+}
+
+#custom td{
+  text-align: center;
+}
+
+
+.table-responsive #customers td{
+
+  text-align: center;
+}
+
+
+
+#custome {
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color:#1f2e2e;
+  text-align: center;
+}
+
+#custome td, #custom th {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: center;
+}
+
+#custome tr:nth-child(even){background-color:  #cce6ff;}
+
+#custome tr:hover {background-color: #4dc4db;}
+
+#custome th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #cce6ff;
+  color: black;
+}
+
+#custome td{
+  text-align: center;
+}
+
+.pdfcontainer{
+  padding:30px;
+}
+
+
+.table-responsive #custome td{
+
+  text-align: center;
+}
